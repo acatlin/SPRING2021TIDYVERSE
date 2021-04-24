@@ -14,17 +14,19 @@ Link. https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/ggplot_forcats.rm
 
 
 # Esteban A
-Initial Description
-Link
+Initial Description:
+Demonstration on how to compute summary statistics across multiple columns in R using the **dplyr's across()** function.
+Link. 
+https://github.com/esteban-data-enthusiast/SPRING2021TIDYVERSE/blob/main/Esteban_Aramayo_Tidyverse_Across.Rmd
 
-Revision/Addition Description
-Link
+Revision/Addition Description: Claire M added a number of ggplot plots, including geom_label(), geom_text(), geom_count(), and more traditional scatterplot and histogram. 
+Link: https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/Esteban_Aramayo_Tidyverse_Across.Rmd
 ¬----
 
 
 # Dmitriy B
 Initial Description
-Link
+Link https://raw.githubusercontent.com/dburtsev/CUNYR/master/vignette.Rmd
 
 Revision/Addition Description
 Link
@@ -56,8 +58,8 @@ https://github.com/mmippolito/SPRING2021TIDYVERSE/blob/main/Vic_Chan_GGPlot_Map.
 Initial: How to use Lubridate and other Tidyverse libraries to calculate days elapsed during a polling cycle as well as use of ggplot to create faceted boxs-plot that intgrate four variables. Possibilities for Extend are included in # comments. 
 https://github.com/sconnin/SPRING2021TIDYVERSE/blob/main/Connin_607_tidyverse.Rmd
 
-Revision/Addition Description
-Link
+Revision/Addition Description: Extended Eric's ggplot vignette to include grid-layout of two plots using cowplot and the grob function. Also added subtitles to the plots. 
+Link: https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/Eric_Hirsch_607_GGPLOT2.Rmd
 ¬----
 
 
@@ -71,8 +73,12 @@ Link
 
 
 # Cassandra C
-Initial Description
+Initial Description: Using nest, unnest, map, and tidy functions to model and compare nested data
 Link
+
+Github - https://github.com/cassandra-coste/SPRING2021TIDYVERSE/blob/main/Cassandra_C_Tidyverse_Create.Rmd
+
+Rpubs - https://rpubs.com/cassandra-coste/757157
 
 Revision/Addition Description
 Link
@@ -80,17 +86,17 @@ Link
 
 
 # Carlisle F
-Initial Description
-Link
+Initial Description: Create custom color palettes for ggplot using hex numbers, RColorBrewer, and wesanderson. 
+Link: https://github.com/carlisleferguson/SPRING2021TIDYVERSE/blob/main/Carlisle_Ferguson_Tidyverse.Rmd
 
 Revision/Addition Description
 Link
 ¬----
 
 
-# Tyler F
-Initial Description
-Link
+# Tyler F 
+Initial Description: A vignette showing defining characteristics of tibbles versus data.frames.
+Link: https://github.com/curdferguson/SPRING2021TIDYVERSE/blob/tf/tf_tibbles.rmd
 
 Revision/Addition Description
 Link
@@ -98,8 +104,8 @@ Link
 
 
 # Pedro G
-Initial Description
-Link
+Initial Description: vignettes showing the use of json_lite, httr, rCurl and ggplot to execute API calls, test for API error return calls and ggplot to plot 2019 batting averages by position and by player by position.
+Link: https://github.com/audiorunner13/SPRING2021TIDYVERSE
 
 Revision/Addition Description
 Link
@@ -131,6 +137,11 @@ Use recipes inside of workflows to build modular ML pipelines in tidymodels.
 [rpubs link](https://rpubs.com/ebhtra/751473)
 [github link](https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/tidymodels_forpets.rmd)
 
+Revision/Addition Description:  Extend Henry Owens' Netflix analysis
+
+Forecast future monthly Netflix releases using `timetk` to engineer features and the Prophet-XGBoost hybrid model from `modeltime` for ML.
+
+[github link](https://github.com/hankowens/SPRING2021TIDYVERSE/blob/main/Owens_607_tidyverse_vignette.Rmd)
 ¬----
 
 
@@ -148,8 +159,11 @@ Initial Description: An Introduction to ggplot2 with special attention to the th
 
 Link: https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/Eric_Hirsch_607_GGPLOT2.Rmd
 
-Revision/Addition Description
-Link
+
+Revision/Addition Description: Detailing additional capabilities of the forcats package in Maliat Islam's vignette.
+
+Link: https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/Tidyverse%20Maliat.Rmd
+
 ¬----
 
 
@@ -175,7 +189,9 @@ Link
 
 # Maliat I
 Initial Description
-Link
+Link 
+https://rpubs.com/maliatislam/752890
+https://github.com/maliat-hossain/SPRING2021TIDYVERSE/commit/2faf0b0c42a2f57399a31b731823d799ad488aed
 
 Revision/Addition Description
 Link
@@ -222,9 +238,11 @@ Link
 # Daniel M
 Working with date/times using Lubridate.  
 RPubs: https://rpubs.com/dmoscoe/751068
+GitHub: https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/dmoscoe_lubridate.Rmd
 
 Revision/Addition Description
-Link
+Added examples to Matt Lucich's work on Stringr
+https://github.com/acatlin/SPRING2021TIDYVERSE/blob/main/stringr_matt_lucich.rmd
 ¬----
 
 
@@ -240,8 +258,8 @@ Link
 
 
 # Henry O
-Initial Description
-Link
+Initial Description: I analyze data on Netflix content using handful of the tidyverse libraries including lubridate, dplyr, ggplot2,  and stringr.
+Link: https://github.com/hankowens/SPRING2021TIDYVERSE/blob/main/Owens_607_tidyverse_vignette.Rmd
 
 Revision/Addition Description
 Link
@@ -253,7 +271,8 @@ Initial Description
 Link
 
 Revision/Addition Description
-Link
+Vic Chan - Added more graphs to see the trend of the murder rates
+https://github.com/xvicxpx/SPRING2021TIDYVERSE/blob/main/Rathish_TydeVerse.Rmd
 ¬----
 
 
@@ -276,8 +295,8 @@ Link
 
 
 # Zachary S
-Initial Description
-Link
+Initial Description - Demonstrate how to use various tidyverse packages together
+Link: https://github.com/zachsfr/SPRING2021TIDYVERSE/blob/main/Zach-TidyVerse.Rmd
 
 Revision/Addition Description
 Link
@@ -322,8 +341,9 @@ Link
 
 
 # Daniel S
-Initial Description
-Link
+Initial Description- show purrr shortcut functionality and intro into nesting data frames and map functions.
+Link 
+github - https://github.com/TheSaltyCrab/Tidyverse607/blob/main/DanielS_purrr_tidyproject.Rmd
 
 Revision/Addition Description
 Link
@@ -331,8 +351,8 @@ Link
 
 
 # Richard Z
-Initial Description
-Link
+Initial Description: Using pivot_longer to transform wide data sets into longer ones for easier storage. Then using merge() to combine dataframes after splitting them 
+Link: https://github.com/schoolkidrich/SPRING2021TIDYVERSE/blob/main/richardzheng_607_tidyverse.Rmd
 
 Revision/Addition Description
 Link
@@ -348,4 +368,9 @@ Revision/Addition Description
 Link
 ¬----
 
+# Sam R
+Initial Description:
+Loading and manipulating OHLC data for DogeCoin using a few Tidyverse Packages.
 
+Revision/Additional:
+dplyr, magrittr, lubridate, ggplot2
