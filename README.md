@@ -708,11 +708,12 @@ RPubs Link: https://rpubs.com/rnivas2028/data607-tidyverse-extn
 
 
 # Tage S
-Initial Description
-Link
+Initial Description - Demonstrate some functions of the various tidyverse packages
 
-Revision/Addition Description
-Link
+Github Link - https://github.com/tagensingh/SPS-DATA607-TIDYVERSE.git
+
+RMD Link - https://github.com/tagensingh/SPS-DATA607-TIDYVERSE/blob/main/data-607-tidyverse-TNS.Rmd
+
 ¬----
 
 
