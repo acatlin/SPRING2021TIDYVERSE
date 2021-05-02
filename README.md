@@ -714,6 +714,13 @@ Github Link - https://github.com/tagensingh/SPS-DATA607-TIDYVERSE.git
 
 RMD Link - https://github.com/tagensingh/SPS-DATA607-TIDYVERSE/blob/main/data-607-tidyverse-TNS.Rmd
 
+Revision/Addition Description: Using group_by and summarise before vizualizing data with ggplot
+
+Github: https://github.com/cassandra-coste/SPRING2021TIDYVERSE/blob/main/Cassandra_C_Tidyverse_Extend.Rmd
+
+Rpubs: https://rpubs.com/cassandra-coste/763096
+=======
+
 ¬----
 
 
